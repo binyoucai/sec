@@ -1,0 +1,3 @@
+ProjectName: c2Forward
+C2Srv:
+  Address: http:/ip:port
